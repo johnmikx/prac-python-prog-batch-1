@@ -18,3 +18,17 @@ This repository contains 10 simple Python programs.
 - **Prog08:** Create a program that ask user to input 10 numbers. Print how many are odd numbers.
 - **Prog09:** Create a program that print all the even numbers starting from 0 to 100. (Use for loop)
 - **Prog10:** Create a program that print all the numbers starting from 0 to 100 except numbers ending in zero.
+
+## About the Author
+
+🥷 **John Mike Asuncion (Mike)**
+
+- Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Machine Learning, and Artificial Intelligence.
+
+### 📫 Connect With Me
+I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
+- 📧 Email: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)
+- 🔗 LinkedIn: [Mike's LinkedIn Profile](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)
+- 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
+- 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
+- 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
