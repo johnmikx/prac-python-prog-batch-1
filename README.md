@@ -6,7 +6,6 @@ This repository contains 10 simple Python programs.
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
-
 ## Programs Included
 
 - **Prog01:** Create a program that ask user to input 2 numbers. Print the bigger number.
